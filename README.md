@@ -49,7 +49,21 @@ Feel free to add to the list!
    - Also provides components like modals, accordions, and responsive tables.
    - [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
 
-18. **TW Elements**
+18. **Cleopatra**: A powerful admin dashboard template built on Tailwind CSS with a beautiful typographic layout. [Cleopatra Demo](https://moesaid.github.io/) / [Download](https://github.com/moesaid/cleopatra)【42†source】【46†source】.
+
+19. **K-WD Dashboard**: A responsive Tailwind CSS admin dashboard template, compatible with Tailwind & Alpine.js. [K-WD Dashboard Demo](https://kamona-wd.github.io/) / [Download](https://github.com/kamona-wd/kwd-dashboard)【42†source】.
+
+20. **TailGrids**: Offers a Universal UI Toolkit for Tailwind CSS, compatible with various frameworks. [TailGrids on GitHub](https://github.com/tailgrids)【43†source】.
+
+21. **Tailwind Kit**: Access to over 250 free components and templates for Tailwind CSS 3.0, compatible with React, VueJS, and Angular. [Tailwind Kit](https://www.tailwind-kit.com/)【44†source】.
+
+22. **Windmill – Tailwind CSS**: A multi-theme, fully accessible Tailwind CSS dashboard. [Windmill Demo](https://windmillui.com/) / [Download](https://github.com/windmillui/windmill-dashboard)【45†source】.
+
+23. **Headless UI**: Completely unstyled, fully accessible UI components designed to integrate with Tailwind CSS. [Headless UI](https://headlessui.dev/)【47†source】.
+
+24. **Astroship**: A starter template for startups, marketing websites, landing pages & blogs, built with Astro & TailwindCSS. [Astroship Demo/Download](https://astroship.vercel.app/)【47†source】.
+
+25. **TW Elements**
    - More than 500 free Tailwind CSS components.
    - Features UI components, data tables, charts, and design blocks.
    - Includes tools for button, card, and form generation.
