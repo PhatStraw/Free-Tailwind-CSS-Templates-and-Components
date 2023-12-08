@@ -7,9 +7,17 @@ Feel free to add to the list!
 
 ## Detailed List of Resources
 
-1. **Mamba UI**: Tailwind CSS compliant components and templates covering a wide range of interface styles. [Mamba UI](https://mambaui.com/)【19†source】.
+1. **Tailwind Components**
+   - Over 600 free examples and templates.
+   - Wide range of components including accordions, alerts, buttons, cards, and more.
+   - Easy to preview and integrate into projects.
+   - [Tailwind Components](https://www.tailwindcomponents.com/)
 
-2. **Flowbite**: Library of over 400 free web components and interactive elements built with Tailwind CSS. [Flowbite](https://flowbite.com/)【19†source】【20†source】.
+2.  **Tailwind Toolbox**
+   - Offers free starter templates and components for Tailwind CSS.
+   - Includes landing pages, admin templates, app landing pages, and more.
+   - Also provides components like modals, accordions, and responsive tables.
+   - [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
 
 3. **Tailwind Starter Kit**: Components for HTML, React, Angular, and Vue projects, available on GitHub. [Tailwind Starter Kit](https://www.creative-tim.com/tailwind-starter-kit)【19†source】【21†source】.
 
@@ -37,17 +45,9 @@ Feel free to add to the list!
 
 15. **TailGrids**: Templates for e-commerce, dashboards, SaaS, and more. [TailGrids](https://tailgrids.com/)【32†source】.
 
-16. **Tailwind Components**
-   - Over 600 free examples and templates.
-   - Wide range of components including accordions, alerts, buttons, cards, and more.
-   - Easy to preview and integrate into projects.
-   - [Tailwind Components](https://www.tailwindcomponents.com/)
+16. **Mamba UI**: Tailwind CSS compliant components and templates covering a wide range of interface styles. [Mamba UI](https://mambaui.com/)【19†source】.
 
-17. **Tailwind Toolbox**
-   - Offers free starter templates and components for Tailwind CSS.
-   - Includes landing pages, admin templates, app landing pages, and more.
-   - Also provides components like modals, accordions, and responsive tables.
-   - [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
+17. **Flowbite**: Library of over 400 free web components and interactive elements built with Tailwind CSS. [Flowbite](https://flowbite.com/)【19†source】【20†source】.
 
 18. **Cleopatra**: A powerful admin dashboard template built on Tailwind CSS with a beautiful typographic layout. [Cleopatra Demo](https://moesaid.github.io/) / [Download](https://github.com/moesaid/cleopatra)【42†source】【46†source】.
 
